@@ -1,1 +1,2 @@
 Text document test for Git.
+Updated with this new text.
